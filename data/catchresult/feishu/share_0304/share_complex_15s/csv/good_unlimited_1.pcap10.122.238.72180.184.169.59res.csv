@@ -1,0 +1,683 @@
+ipsrc,ipdst,portsrc,portdst,pktcnt,pktlen,itvl,bw,thp,
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530228.953066
+end timestamp:1678530238.950784
+duration:9.997718
+packet count:401
+packet size(B):701.960100
+app packet size(B):659.960100
+interval(s):0.024994
+bandwith(B/s):28155.025378
+application layer bandwith(B/s):26470.440932
+throughput(num/s):40.109153
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530239.022009
+end timestamp:1678530249.000002
+duration:9.977993
+packet count:291
+packet size(B):532.233677
+app packet size(B):490.233677
+interval(s):0.034407
+bandwith(B/s):15522.159599
+application layer bandwith(B/s):14297.263972
+throughput(num/s):29.164182
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530249.152042
+end timestamp:1678530259.083816
+duration:9.931774
+packet count:462
+packet size(B):754.569264
+app packet size(B):712.569264
+interval(s):0.021544
+bandwith(B/s):35100.576705
+application layer bandwith(B/s):33146.847218
+throughput(num/s):46.517369
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530259.197858
+end timestamp:1678530269.110690
+duration:9.912832
+packet count:353
+packet size(B):618.348442
+app packet size(B):576.348442
+interval(s):0.028161
+bandwith(B/s):22019.640757
+application layer bandwith(B/s):20524.003590
+throughput(num/s):35.610409
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530269.235901
+end timestamp:1678530279.235187
+duration:9.999286
+packet count:224
+packet size(B):196.727679
+app packet size(B):154.727679
+interval(s):0.044840
+bandwith(B/s):4407.014689
+application layer bandwith(B/s):3466.147505
+throughput(num/s):22.401600
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530279.249186
+end timestamp:1678530289.229935
+duration:9.980749
+packet count:400
+packet size(B):696.017500
+app packet size(B):654.017500
+interval(s):0.025014
+bandwith(B/s):27894.399811
+application layer bandwith(B/s):26211.159386
+throughput(num/s):40.077153
+flow1:10.122.238.72->180.184.169.59 55103->80
+start timestamp:1678530274.802866
+end timestamp:1678530284.801925
+duration:9.999059
+packet count:2
+packet size(B):5671.000000
+app packet size(B):5629.000000
+interval(s):9.999059
+bandwith(B/s):1134.306743
+application layer bandwith(B/s):1125.905952
+throughput(num/s):0.200019
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530289.287944
+end timestamp:1678530299.275464
+duration:9.987520
+packet count:330
+packet size(B):561.636364
+app packet size(B):519.636364
+interval(s):0.030357
+bandwith(B/s):18557.159373
+application layer bandwith(B/s):17169.427481
+throughput(num/s):33.041236
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530299.357466
+end timestamp:1678530309.334811
+duration:9.977345
+packet count:248
+packet size(B):344.487903
+app packet size(B):302.487903
+interval(s):0.040394
+bandwith(B/s):8562.698803
+application layer bandwith(B/s):7518.733699
+throughput(num/s):24.856312
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530309.403863
+end timestamp:1678530319.396061
+duration:9.992198
+packet count:318
+packet size(B):509.943396
+app packet size(B):467.943396
+interval(s):0.031521
+bandwith(B/s):16228.861774
+application layer bandwith(B/s):14892.218923
+throughput(num/s):31.824830
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530319.432982
+end timestamp:1678530329.402683
+duration:9.969701
+packet count:214
+packet size(B):207.168224
+app packet size(B):165.168224
+interval(s):0.046806
+bandwith(B/s):4446.873559
+application layer bandwith(B/s):3545.342013
+throughput(num/s):21.465037
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530329.436025
+end timestamp:1678530339.355271
+duration:9.919246
+packet count:329
+packet size(B):577.568389
+app packet size(B):535.568389
+interval(s):0.030242
+bandwith(B/s):19156.697619
+application layer bandwith(B/s):17763.648215
+throughput(num/s):33.167843
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530339.444267
+end timestamp:1678530349.363553
+duration:9.919286
+packet count:351
+packet size(B):605.646724
+app packet size(B):563.646724
+interval(s):0.028341
+bandwith(B/s):21431.179596
+application layer bandwith(B/s):19944.983918
+throughput(num/s):35.385611
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530349.512147
+end timestamp:1678530359.400804
+duration:9.888657
+packet count:244
+packet size(B):321.500000
+app packet size(B):279.500000
+interval(s):0.040694
+bandwith(B/s):7932.927521
+application layer bandwith(B/s):6896.588623
+throughput(num/s):24.674736
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530359.557560
+end timestamp:1678530369.465597
+duration:9.908037
+packet count:301
+packet size(B):493.395349
+app packet size(B):451.395349
+interval(s):0.033027
+bandwith(B/s):14989.043823
+application layer bandwith(B/s):13713.109945
+throughput(num/s):30.379378
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530369.623434
+end timestamp:1678530379.466957
+duration:9.843523
+packet count:325
+packet size(B):543.313846
+app packet size(B):501.313846
+interval(s):0.030381
+bandwith(B/s):17938.394571
+application layer bandwith(B/s):16551.695930
+throughput(num/s):33.016634
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530379.639053
+end timestamp:1678530389.500250
+duration:9.861197
+packet count:399
+packet size(B):666.325815
+app packet size(B):624.325815
+interval(s):0.024777
+bandwith(B/s):26960.621529
+application layer bandwith(B/s):25261.233513
+throughput(num/s):40.461619
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530389.659160
+end timestamp:1678530399.545785
+duration:9.886625
+packet count:400
+packet size(B):687.497500
+app packet size(B):645.497500
+interval(s):0.024779
+bandwith(B/s):27815.255314
+application layer bandwith(B/s):26115.989901
+throughput(num/s):40.458700
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530399.737637
+end timestamp:1678530409.730326
+duration:9.992689
+packet count:234
+packet size(B):242.286325
+app packet size(B):200.286325
+interval(s):0.042887
+bandwith(B/s):5673.648064
+application layer bandwith(B/s):4690.129003
+throughput(num/s):23.417121
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530409.780208
+end timestamp:1678530419.718631
+duration:9.938423
+packet count:371
+packet size(B):617.191375
+app packet size(B):575.191375
+interval(s):0.026861
+bandwith(B/s):23039.671574
+application layer bandwith(B/s):21471.817184
+throughput(num/s):37.329866
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530419.814625
+end timestamp:1678530429.638828
+duration:9.824203
+packet count:284
+packet size(B):444.450704
+app packet size(B):402.450704
+interval(s):0.034714
+bandwith(B/s):12848.268691
+application layer bandwith(B/s):11634.124400
+throughput(num/s):28.908197
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530429.818864
+end timestamp:1678530439.785783
+duration:9.966919
+packet count:219
+packet size(B):222.611872
+app packet size(B):180.611872
+interval(s):0.045720
+bandwith(B/s):4891.381205
+application layer bandwith(B/s):3968.528310
+throughput(num/s):21.972688
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530439.819848
+end timestamp:1678530449.771186
+duration:9.951338
+packet count:438
+packet size(B):710.730594
+app packet size(B):668.730594
+interval(s):0.022772
+bandwith(B/s):31282.225400
+application layer bandwith(B/s):29433.629774
+throughput(num/s):44.014182
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530449.852004
+end timestamp:1678530459.740241
+duration:9.888237
+packet count:216
+packet size(B):192.879630
+app packet size(B):150.879630
+interval(s):0.045992
+bandwith(B/s):4213.288982
+application layer bandwith(B/s):3295.835244
+throughput(num/s):21.844137
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530459.855098
+end timestamp:1678530469.814811
+duration:9.959713
+packet count:359
+packet size(B):613.777159
+app packet size(B):571.777159
+interval(s):0.027820
+bandwith(B/s):22123.729910
+application layer bandwith(B/s):20609.830862
+throughput(num/s):36.045215
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530469.857734
+end timestamp:1678530479.844918
+duration:9.987184
+packet count:403
+packet size(B):670.625310
+app packet size(B):628.625310
+interval(s):0.024844
+bandwith(B/s):27060.881096
+application layer bandwith(B/s):25366.109084
+throughput(num/s):40.351715
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530479.860524
+end timestamp:1678530489.858645
+duration:9.998121
+packet count:256
+packet size(B):381.335938
+app packet size(B):339.335938
+interval(s):0.039208
+bandwith(B/s):9764.034639
+application layer bandwith(B/s):8688.632574
+throughput(num/s):25.604811
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530489.861275
+end timestamp:1678530499.744461
+duration:9.883186
+packet count:400
+packet size(B):680.005000
+app packet size(B):638.005000
+interval(s):0.024770
+bandwith(B/s):27521.691608
+application layer bandwith(B/s):25821.834919
+throughput(num/s):40.472778
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530499.867432
+end timestamp:1678530509.851326
+duration:9.983894
+packet count:326
+packet size(B):543.150307
+app packet size(B):501.150307
+interval(s):0.030720
+bandwith(B/s):17735.264645
+application layer bandwith(B/s):16363.855837
+throughput(num/s):32.652591
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530509.870052
+end timestamp:1678530519.796484
+duration:9.926432
+packet count:244
+packet size(B):322.827869
+app packet size(B):280.827869
+interval(s):0.040850
+bandwith(B/s):7935.379081
+application layer bandwith(B/s):6902.983945
+throughput(num/s):24.580837
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530519.875797
+end timestamp:1678530529.865381
+duration:9.989584
+packet count:357
+packet size(B):601.714286
+app packet size(B):559.714286
+interval(s):0.028061
+bandwith(B/s):21503.598214
+application layer bandwith(B/s):20002.634806
+throughput(num/s):35.737224
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530529.878699
+end timestamp:1678530539.876005
+duration:9.997306
+packet count:244
+packet size(B):311.168033
+app packet size(B):269.168033
+interval(s):0.041141
+bandwith(B/s):7594.546069
+application layer bandwith(B/s):6569.469901
+throughput(num/s):24.406575
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530539.879888
+end timestamp:1678530549.851266
+duration:9.971378
+packet count:375
+packet size(B):4616.304000
+app packet size(B):4574.304000
+interval(s):0.026661
+bandwith(B/s):173608.304300
+application layer bandwith(B/s):172028.783371
+throughput(num/s):37.607641
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530549.887724
+end timestamp:1678530559.887408
+duration:9.999684
+packet count:476
+packet size(B):761.424370
+app packet size(B):719.424370
+interval(s):0.021052
+bandwith(B/s):36244.944995
+application layer bandwith(B/s):34245.681837
+throughput(num/s):47.601504
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530559.924948
+end timestamp:1678530569.909956
+duration:9.985008
+packet count:268
+packet size(B):403.246269
+app packet size(B):361.246269
+interval(s):0.037397
+bandwith(B/s):10823.226179
+application layer bandwith(B/s):9695.936146
+throughput(num/s):26.840239
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530569.965988
+end timestamp:1678530579.945228
+duration:9.979240
+packet count:318
+packet size(B):518.430818
+app packet size(B):476.430818
+interval(s):0.031480
+bandwith(B/s):16520.396046
+application layer bandwith(B/s):15182.017597
+throughput(num/s):31.866154
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530579.975213
+end timestamp:1678530589.893760
+duration:9.918547
+packet count:289
+packet size(B):456.114187
+app packet size(B):414.114187
+interval(s):0.034439
+bandwith(B/s):13289.950749
+application layer bandwith(B/s):12066.182781
+throughput(num/s):29.137333
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530589.981046
+end timestamp:1678530599.980025
+duration:9.998979
+packet count:1484
+packet size(B):340.150270
+app packet size(B):298.150270
+interval(s):0.006742
+bandwith(B/s):50483.453898
+application layer bandwith(B/s):44250.017521
+throughput(num/s):148.415152
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530599.985508
+end timestamp:1678530609.907433
+duration:9.921925
+packet count:1228
+packet size(B):498.633550
+app packet size(B):456.633550
+interval(s):0.008086
+bandwith(B/s):61714.031885
+application layer bandwith(B/s):56515.847092
+throughput(num/s):123.766305
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530610.101599
+end timestamp:1678530620.030229
+duration:9.928630
+packet count:236
+packet size(B):264.635593
+app packet size(B):222.635593
+interval(s):0.042249
+bandwith(B/s):6290.293755
+application layer bandwith(B/s):5291.968721
+throughput(num/s):23.769644
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530620.140669
+end timestamp:1678530630.056213
+duration:9.915544
+packet count:352
+packet size(B):599.133523
+app packet size(B):557.133523
+interval(s):0.028249
+bandwith(B/s):21269.131010
+application layer bandwith(B/s):19778.138654
+throughput(num/s):35.499818
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530630.191236
+end timestamp:1678530640.164815
+duration:9.973579
+packet count:367
+packet size(B):606.247956
+app packet size(B):564.247956
+interval(s):0.027250
+bandwith(B/s):22308.240759
+application layer bandwith(B/s):20762.757427
+throughput(num/s):36.797222
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530640.223844
+end timestamp:1678530650.188825
+duration:9.964981
+packet count:298
+packet size(B):469.070470
+app packet size(B):427.070470
+interval(s):0.033552
+bandwith(B/s):14027.422856
+application layer bandwith(B/s):12771.424455
+throughput(num/s):29.904724
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530650.256798
+end timestamp:1678530660.096710
+duration:9.839912
+packet count:451
+packet size(B):736.973392
+app packet size(B):694.973392
+interval(s):0.021866
+bandwith(B/s):33778.249450
+application layer bandwith(B/s):31853.232222
+throughput(num/s):45.833744
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530660.281249
+end timestamp:1678530670.159602
+duration:9.878353
+packet count:422
+packet size(B):3715.094787
+app packet size(B):3673.094787
+interval(s):0.023464
+bandwith(B/s):158707.632636
+application layer bandwith(B/s):156913.406390
+throughput(num/s):42.719673
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530670.291135
+end timestamp:1678530680.251858
+duration:9.960723
+packet count:293
+packet size(B):5336.805461
+app packet size(B):5294.805461
+interval(s):0.034112
+bandwith(B/s):156984.991154
+application layer bandwith(B/s):155749.538658
+throughput(num/s):29.415536
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530680.373384
+end timestamp:1678530690.216887
+duration:9.843503
+packet count:244
+packet size(B):288.557377
+app packet size(B):246.557377
+interval(s):0.040508
+bandwith(B/s):7152.738208
+application layer bandwith(B/s):6111.645418
+throughput(num/s):24.787924
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530690.418279
+end timestamp:1678530700.415989
+duration:9.997710
+packet count:302
+packet size(B):448.466887
+app packet size(B):406.466887
+interval(s):0.033215
+bandwith(B/s):13546.802232
+application layer bandwith(B/s):12278.111700
+throughput(num/s):30.206917
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530700.419923
+end timestamp:1678530710.343868
+duration:9.923945
+packet count:437
+packet size(B):4170.512586
+app packet size(B):4128.512586
+interval(s):0.022761
+bandwith(B/s):183648.136821
+application layer bandwith(B/s):181798.670697
+throughput(num/s):44.034908
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530710.490550
+end timestamp:1678530720.358914
+duration:9.868364
+packet count:429
+packet size(B):693.459207
+app packet size(B):651.459207
+interval(s):0.023057
+bandwith(B/s):30146.233388
+application layer bandwith(B/s):28320.398806
+throughput(num/s):43.472252
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530720.525977
+end timestamp:1678530730.376972
+duration:9.850995
+packet count:236
+packet size(B):304.580508
+app packet size(B):262.580508
+interval(s):0.041919
+bandwith(B/s):7296.826314
+application layer bandwith(B/s):6290.633545
+throughput(num/s):23.956971
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530730.557150
+end timestamp:1678530740.446582
+duration:9.889432
+packet count:453
+packet size(B):745.962472
+app packet size(B):703.962472
+interval(s):0.021879
+bandwith(B/s):34169.909196
+application layer bandwith(B/s):32246.037367
+throughput(num/s):45.806472
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530740.609261
+end timestamp:1678530750.589907
+duration:9.980646
+packet count:327
+packet size(B):540.541284
+app packet size(B):498.541284
+interval(s):0.030615
+bandwith(B/s):17709.976074
+application layer bandwith(B/s):16333.912826
+throughput(num/s):32.763411
+flow1:10.122.238.72->180.184.169.59 55103->80
+start timestamp:1678530734.943479
+end timestamp:1678530744.932429
+duration:9.988950
+packet count:2
+packet size(B):5671.000000
+app packet size(B):5629.000000
+interval(s):9.988950
+bandwith(B/s):1135.454676
+application layer bandwith(B/s):1127.045384
+throughput(num/s):0.200221
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530750.651953
+end timestamp:1678530760.570288
+duration:9.918335
+packet count:236
+packet size(B):249.538136
+app packet size(B):207.538136
+interval(s):0.042206
+bandwith(B/s):5937.589347
+application layer bandwith(B/s):4938.228059
+throughput(num/s):23.794316
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530760.689894
+end timestamp:1678530770.677860
+duration:9.987966
+packet count:531
+packet size(B):819.634652
+app packet size(B):777.634652
+interval(s):0.018845
+bandwith(B/s):43575.037936
+application layer bandwith(B/s):41342.150894
+throughput(num/s):53.163977
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530770.713941
+end timestamp:1678530780.663754
+duration:9.949813
+packet count:314
+packet size(B):557.184713
+app packet size(B):515.184713
+interval(s):0.031789
+bandwith(B/s):17583.848254
+application layer bandwith(B/s):16258.396193
+throughput(num/s):31.558382
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530780.767799
+end timestamp:1678530790.740095
+duration:9.972296
+packet count:274
+packet size(B):413.113139
+app packet size(B):371.113139
+interval(s):0.036529
+bandwith(B/s):11350.746108
+application layer bandwith(B/s):10196.749074
+throughput(num/s):27.476120
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530790.810092
+end timestamp:1678530800.776279
+duration:9.966187
+packet count:482
+packet size(B):773.234440
+app packet size(B):731.234440
+interval(s):0.020720
+bandwith(B/s):37396.348271
+application layer bandwith(B/s):35365.079944
+throughput(num/s):48.363532
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530800.830133
+end timestamp:1678530810.817431
+duration:9.987298
+packet count:279
+packet size(B):405.695341
+app packet size(B):363.695341
+interval(s):0.035926
+bandwith(B/s):11333.295539
+application layer bandwith(B/s):10160.005227
+throughput(num/s):27.935484
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530810.841465
+end timestamp:1678530820.812912
+duration:9.971447
+packet count:352
+packet size(B):657.977273
+app packet size(B):615.977273
+interval(s):0.028409
+bandwith(B/s):23227.120418
+application layer bandwith(B/s):21744.487054
+throughput(num/s):35.300794
+flow1:10.122.238.72->180.184.169.59 55103->50000
+start timestamp:1678530820.844941
+end timestamp:1678530828.786118
+duration:7.941177
+packet count:236
+packet size(B):486.860169
+app packet size(B):444.860169
+interval(s):0.033792
+bandwith(B/s):14468.761762
+application layer bandwith(B/s):13220.584088
+throughput(num/s):29.718516
