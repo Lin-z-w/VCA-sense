@@ -23,6 +23,7 @@ These datasets enable researchers to perform quantitative analyses of traffic ch
 **Pseudocode**
 
 **Input:** Stream of packets with identifier `S`, and IP ID `ip_id`
+
 **Output:** Classification of loss events
 
 Initialize `max_seq ← -1`
@@ -49,44 +50,49 @@ Each protocol has its own processing algorithm under the corresponding directory
 
   First, update the path to `tshark` in the `quic_processor.py` file:
 
-  ```bash
+  ```
   TSHARK_PATH="<tshark_path>"
   ```
 
-Then, run `quic_processor.py` with the input PCAP file and TLS key to generate preprocessed streams grouped by `"IP:Port"`:
+  Then, run `quic_processor.py` with the input PCAP file and TLS key to generate preprocessed streams grouped by `"IP:Port"`:
 
-<pre class="overflow-visible!" data-start="2144" data-end="2225"><div class="contain-inline-size rounded-2xl relative bg-token-sidebar-surface-primary"><div class="sticky top-9"><div class="absolute end-0 bottom-0 flex h-9 items-center pe-2"><div class="bg-token-bg-elevated-secondary text-token-text-secondary flex items-center gap-4 rounded-sm px-2 font-sans text-xs"></div></div></div><div class="overflow-y-auto p-4" dir="ltr"><code class="whitespace-pre! language-bash"><span><span>python quic_processor.py <pcap_file> <tls_keys_file> <output_dir>
-</span></span></code></div></div></pre>
-
-Use `loss_rate.py` to calculate the forward and backward packet loss rates for each preprocessed stream:
-
-<pre class="overflow-visible!" data-start="2337" data-end="2384"><div class="contain-inline-size rounded-2xl relative bg-token-sidebar-surface-primary"><div class="sticky top-9"><div class="absolute end-0 bottom-0 flex h-9 items-center pe-2"><div class="bg-token-bg-elevated-secondary text-token-text-secondary flex items-center gap-4 rounded-sm px-2 font-sans text-xs"></div></div></div><div class="overflow-y-auto p-4" dir="ltr"><code class="whitespace-pre! language-bash"><span><span>python loss_rate.py <pcap_file>
-</span></span></code></div></div></pre>
+  ```
+  python quic_processor.py <pcap_file> <tls_keys_file> <output_dir>
+  ```
+  
+  Use `loss_rate.py` to calculate the forward and backward packet loss rates for each preprocessed stream:
+  ```
+  python loss_rate.py <pcap_file>
+  ```
 
 ---
 
 * **RTP**
   First, update the path to `tshark` in the `rtp_processor.py` file:
 
-  <pre class="overflow-visible!" data-start="2474" data-end="2520"><div class="contain-inline-size rounded-2xl relative bg-token-sidebar-surface-primary"><div class="sticky top-9"><div class="absolute end-0 bottom-0 flex h-9 items-center pe-2"><div class="bg-token-bg-elevated-secondary text-token-text-secondary flex items-center gap-4 rounded-sm px-2 font-sans text-xs"></div></div></div><div class="overflow-y-auto p-4" dir="ltr"><code class="whitespace-pre! language-bash"><span><span>DEFAULT_TSHARK=</span><span>"<tshark_path>"</span><span>
-  </span></span></code></div></div></pre>
+  ```
+  DEFAULT_TSHARK="<tshark_path>"
+  ```
 
   Then, run `rtp_processor.py` with the input PCAP file to generate preprocessed streams grouped by `"IP:Port"`:
 
-  <pre class="overflow-visible!" data-start="2638" data-end="2689"><div class="contain-inline-size rounded-2xl relative bg-token-sidebar-surface-primary"><div class="sticky top-9"><div class="absolute end-0 bottom-0 flex h-9 items-center pe-2"><div class="bg-token-bg-elevated-secondary text-token-text-secondary flex items-center gap-4 rounded-sm px-2 font-sans text-xs"></div></div></div><div class="overflow-y-auto p-4" dir="ltr"><code class="whitespace-pre! language-bash"><span><span>python rtp_processor.py <pcap_file>
-  </span></span></code></div></div></pre>
+  ```
+  python rtp_processor.py <pcap_file>
+  ```
 
   Finally, use `loss_rate.py` to calculate the forward and backward packet loss rates for each preprocessed stream:
 
-  <pre class="overflow-visible!" data-start="2810" data-end="2857"><div class="contain-inline-size rounded-2xl relative bg-token-sidebar-surface-primary"><div class="sticky top-9"><div class="absolute end-0 bottom-0 flex h-9 items-center pe-2"><div class="bg-token-bg-elevated-secondary text-token-text-secondary flex items-center gap-4 rounded-sm px-2 font-sans text-xs"></div></div></div><div class="overflow-y-auto p-4" dir="ltr"><code class="whitespace-pre! language-bash"><span><span>python loss_rate.py <pcap_file>
-  </span></span></code></div></div></pre>
+  ```
+  python loss_rate.py <pcap_file>
+  ```
 
 ---
 
 * **TCP**
   For TCP, both preprocessing and loss rate calculation are integrated into a single script. Run the following command directly:
-  <pre class="overflow-visible!" data-start="3007" data-end="3058"><div class="contain-inline-size rounded-2xl relative bg-token-sidebar-surface-primary"><div class="sticky top-9"><div class="absolute end-0 bottom-0 flex h-9 items-center pe-2"><div class="bg-token-bg-elevated-secondary text-token-text-secondary flex items-center gap-4 rounded-sm px-2 font-sans text-xs"></div></div></div><div class="overflow-y-auto p-4" dir="ltr"><code class="whitespace-pre! language-bash"><span><span>python tcp_loss_rate.py <pcap_file>
-  </span></span></code></div></div></pre>
+  ```
+  python tcp_loss_rate.py <pcap_file>
+  ```
 
 ---
 
